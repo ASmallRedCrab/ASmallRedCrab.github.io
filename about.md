@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 邱涛
-permalink: /about/
+title: "About"
+description: "Why use Project Pages?"
+header-img: "img/home-bg.jpg"
 ---
 
-软件工程师 (Android/Unity)
-
-青岛歌尔声学科技有限公司 [Goertek](https://www.goertek.com/)
-
+Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+	
