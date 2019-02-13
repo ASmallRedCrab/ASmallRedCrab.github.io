@@ -24,6 +24,14 @@ github_username:  ASmallRedCrab
 # Build settings
 markdown: kramdown
 theme: minima
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: ee8f5998f95df6c1fec58ea55fa3c74c
+
+
 plugins:
   - jekyll-feed
 
