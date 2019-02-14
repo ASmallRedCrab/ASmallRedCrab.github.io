@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '镜子空间'
+title: 'A Small Red Crab'
 description: 'Android/Unity开发者，很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '邱涛, 邱涛的独立博客, 邱涛的博客, Android, Unity, Android博客, Java, C#, VR'
 url: '' # your host
@@ -17,7 +17,7 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: '邱涛'
+author: '邱涛|Goertek'
 nickname: 'Martin'
 bio: 'Android，Unity，VR'
 avatar: '/assets/img/profile.png'
