@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Android生命周期'
+title: '《Android开发艺术探索》，读书笔记（1）Android生命周期'
 date: 2019-04-12
 author: 邱涛
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
@@ -10,7 +10,7 @@ tags: Android 生命周期
 > Activity： 前台和可见的区别，对调用生命周期方法的影响.
 
 ##  生命周期图示  ##
-
+![Android 生命周期](https://i.imgur.com/9ECpRpf.png)
 
 
 ##  问题  ##
