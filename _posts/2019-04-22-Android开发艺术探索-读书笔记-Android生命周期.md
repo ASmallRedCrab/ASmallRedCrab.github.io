@@ -10,7 +10,7 @@ tags: Android 生命周期
 > Activity： 前台和可见的区别，对调用生命周期方法的影响.
 
 ##  生命周期图示  ##
-![Android 生命周期](assets/img/androidlifecycle.png)
+![](screenshot/androidlifecycle.png)
 
 
 ##  问题  ##
